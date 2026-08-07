@@ -23,21 +23,21 @@ window.CONFIG = {
   // ----- IDENTIDADE DO CONVITE -------------------------------------------
   // Nome do aniversariante. Aparece no título da aba do navegador e nos
   // textos automáticos do convite.
-  nome: "Pedro Nero",
+  nome: "Isadora",
 
   // ----- WHATSAPP (CONFIRMAR PRESENÇA) -----------------------------------
   // numero: DDI + DDD + número, SÓ DÍGITOS (sem +, espaço, parênteses ou traço).
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
-    numero: "5588988281435",
-    mensagem: "Olá! Confirmo minha presença no aniversário do Pedro Nero."
+    numero: "5511948469479",
+    mensagem: "Olá! Confirmo minha presença no aniversário da Isadora."
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "google.com/maps/place/Travessuras+Buffet/data=!4m2!3m1!1s0x0:0xd6c4b02555c3a45a?sa=X&ved=1t:2428&ictx=111",
+  mapa: "https://share.google/7oyi4t2qFT3dR1Bpf",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
@@ -50,7 +50,7 @@ window.CONFIG = {
     localizacao: true,
     presentes: true,
     dresscode: false,
-    manual: true,
+    manual: false,
     contagem: true
   },
 
@@ -90,7 +90,6 @@ window.CONFIG = {
         confirm: { left:13.385800780551847, top:59.66051059081367, width:19.64355312204473, height:11.449252034014982 },
         map: { left:40.491117772523374, top:59.54541978412351, width:19.292465283626143, height:11.399863780795407 },
         gift: { left:66.8695855250401, top:59.53459410174959, width:19.567092651757186, height:11.52034966267883 },
-        manual: { left:40.491117772523374, top:59.54541978412351, width:19.292465283626143, height:11.399863780795407 },
         countdown: { left:66.8695855250401, top:59.53459410174959, width:19.567092651757186, height:11.52034966267883 }
   },
 
@@ -102,7 +101,7 @@ window.CONFIG = {
   // corLegenda altera a cor de Meses, Dias, Horas, Min e Seg.
   // Aceita hexadecimal, nome de cor ou rgb().
   contagem: {
-    dataEvento: "2026-09-07T17:30:00",
+    dataEvento: "2026-08-29T18:30:00",
     textoFinal: "A festa começou!",
     corNumero: "#ffffff",
     corLegenda: "#ffffff",
