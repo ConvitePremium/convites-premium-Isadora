@@ -107,7 +107,6 @@ window.CONFIG = {
     corNumero: "#ffffff",
     corLegenda: "#ffffff",
     posicao: { left:22.5175531649361, top:51.45224389795505, width:56.19169641074281, height:6.218642289127358 }
-  }
   },
 
   // ----- MÚSICA DE FUNDO -------------------------------------------------
